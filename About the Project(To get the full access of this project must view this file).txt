@@ -1,0 +1,5 @@
+In this project for only getting to the admin dashboard please sign in with
+username="admin4"
+password="22222222"
+into the log in page 
+and if you want to register newly you can register and also sign in with the registered new username and password as user.All the register will be as user only the admin info is fixed with the above info.  
